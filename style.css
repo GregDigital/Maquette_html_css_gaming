@@ -140,3 +140,12 @@ h1{
     text-transform: uppercase;
     font-weight: 700;
 }
+
+.icon-part p {
+    width: 80%;
+    margin: 10px auto 20px;
+}
+
+.icon-part button{
+    padding: 9px 32px;
+}
