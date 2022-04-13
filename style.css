@@ -131,3 +131,12 @@ h1{
     max-width: 1100px;
     margin: 0 auto;
 }
+
+.lip-logo{
+    margin-bottom: 30px;
+}
+
+.icon-part h3{
+    text-transform: uppercase;
+    font-weight: 700;
+}
